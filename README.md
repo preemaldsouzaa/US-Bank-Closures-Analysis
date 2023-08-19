@@ -18,8 +18,10 @@ This project offers valuable insights for the banking and finance sector. Unders
 
 ## How to Explore:
 Visit the interactive Tableau dashboards to navigate the data-driven story.
+
 Use filters to explore data by state, bank closures by state with respect to certificates, and the top 10 bank acquisitions.
 
 ## Tools Used:
 Excel for data preprocessing
+
 Tableau for data visualization
