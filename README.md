@@ -70,11 +70,11 @@ Lastly, the Distribution of Bank Closures by Closing Date chart unfolds that the
 This rich array of data serves as a valuable toolkit for comprehending the intricate dynamics of American banks, their assets, deposits, and closures.
 
 #### 4. Bank Closure wrt State
-![Analytics wrt State](https://github.com/preemaldsouzaa/US-Bank-Closures-Analysis/assets/117831091/355a67a1-2f1b-47b3-a54b-be6a545561b8)
+![Analytics wrt State](https://github.com/preemaldsouzaa/US-Bank-Closures-Analysis/assets/117831091/c7ae4f23-f0ea-4de3-9332-70cf2c1cc8b7)
 
 Dashboard 4 emerges as a robust analytical toolkit, providing a comprehensive exploration of bank closures with a powerful state filter at its core. This dropdown filter empowers users to precisely navigate through data, focusing their attention on specific states of interest.
 
-The first chart sets the stage, offering an overview of bank closures in relation to certificates. It serves as a foundational element for understanding broader trends.
+The first chart sets the stage, offering an overview of bank closures in relation to estimated losses. It serves as a foundational element for understanding broader trends.
 
 The second chart delves into the intricate world of mergers and acquisitions, presenting an interactive table that unveils crucial details about the top 10 bank acquisitions. This table supplies users with essential information including the acquiring institution, bank name, total assets, and total deposits involved in these financial transactions. Such insights prove invaluable in deciphering the financial impact of these acquisitions.
 
